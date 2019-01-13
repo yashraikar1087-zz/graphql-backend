@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "yash@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "2",
+      "name": "Steve Smith",
+      "email": "steve@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "Test 123",
+      "email": "test@gamil.com",
+      "age": 23,
+      "id": "0HGHbjC"
+    }
+  ]
+}
